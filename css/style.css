@@ -1,0 +1,19 @@
+/* Empty CSS file for your own CSS */
+.container-fluid > .row {
+    margin-bottom: 5%;
+}
+
+.container-fluid {
+    margin-top: 20px;
+}
+
+img {
+    margin: 8px;
+    max-width: 90%;
+    max-height: 70%;
+    border-radius: 14%;
+}
+
+h3 {
+    text-decoration: underline;
+}
